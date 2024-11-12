@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<rss version = "2.0">
+	<channel>
+		<title>Dawn's Coffee</title>
+		<link>https://2los.github.io/</link>
+		<language>en-us</language>
+		<webMaster>kaffedesk@gmail.com</webMaster>
+		<description>Dawn's Coffee is my personal blog. Here, I share my knowledge, opinions and thoughts on various topics, including C++, Carbon and Web technologies.</description>
+		<item>
+			<title>The First Dawn</title>
+			<description>It’s 6:00am. The first shades of light are appearing over the horizon. Like purple and orange waves, they pass through a clauster of milky clouds. They kindly float on the waves of light, in the ocean of the sky. The songs of birds fly beyond the dark landscape, now sailing and then descending.</description>
+			<link>https://2los.github.io/blog/the-first-dawn/</link>
+			<guid>https://2los.github.io/blog/the-first-dawn/</guid>
+			<pubDate>2024-11-12 07:00:00 +0100 CET</pubDate>
+		</item>
+	</channel>
+</rss>
